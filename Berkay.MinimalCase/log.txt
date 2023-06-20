@@ -1,0 +1,29 @@
+2023-06-20 18:25:29.417 +03:00 [INF] Starting up!
+2023-06-20 18:25:29.590 +03:00 [INF] Now listening on: http://[::]:80
+2023-06-20 18:25:29.601 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-06-20 18:25:29.602 +03:00 [INF] Hosting environment: Development
+2023-06-20 18:25:29.602 +03:00 [INF] Content root path: C:\app\
+2023-06-20 18:25:31.528 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:64902/swagger/index.html - -
+2023-06-20 18:25:31.744 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:64902/swagger/index.html - - - 200 - text/html;charset=utf-8 219.6666ms
+2023-06-20 18:25:32.575 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:64902/swagger/v1/swagger.json - -
+2023-06-20 18:25:32.860 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:64902/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 284.6033ms
+2023-06-20 18:25:50.846 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:64902/pricing - -
+2023-06-20 18:25:50.865 +03:00 [INF] Executing endpoint 'HTTP: GET /pricing'
+2023-06-20 18:25:50.883 +03:00 [INF] Fixed discount applied: 2
+2023-06-20 18:25:50.893 +03:00 [INF] Calculated amount for Product A: 10.6082
+2023-06-20 18:25:50.894 +03:00 [INF] Percentage discount applied: 20.0%
+2023-06-20 18:25:50.894 +03:00 [INF] Calculated amount for Product B: 17.27136
+2023-06-20 18:25:50.895 +03:00 [INF] Fixed discount applied: 1
+2023-06-20 18:25:50.895 +03:00 [INF] Calculated amount for Product C: 5.489
+2023-06-20 18:25:50.897 +03:00 [INF] Executed endpoint 'HTTP: GET /pricing'
+2023-06-20 18:25:50.898 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:64902/pricing - - - 200 - application/json;+charset=utf-8 51.8997ms
+2023-06-20 18:25:59.144 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:64902/pricing - -
+2023-06-20 18:25:59.145 +03:00 [INF] Executing endpoint 'HTTP: GET /pricing'
+2023-06-20 18:25:59.145 +03:00 [INF] Fixed discount applied: 2
+2023-06-20 18:25:59.146 +03:00 [INF] Calculated amount for Product A: 10.6082
+2023-06-20 18:25:59.146 +03:00 [INF] Percentage discount applied: 20.0%
+2023-06-20 18:25:59.146 +03:00 [INF] Calculated amount for Product B: 17.27136
+2023-06-20 18:25:59.147 +03:00 [INF] Fixed discount applied: 1
+2023-06-20 18:25:59.147 +03:00 [INF] Calculated amount for Product C: 5.489
+2023-06-20 18:25:59.147 +03:00 [INF] Executed endpoint 'HTTP: GET /pricing'
+2023-06-20 18:25:59.148 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:64902/pricing - - - 200 - application/json;+charset=utf-8 3.5793ms
